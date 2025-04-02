@@ -1,0 +1,34 @@
+{
+"persona": [
+{
+        "id": "1234A",
+        "nombre": "diego",
+        "edad":"18 ",
+        "RFC": "JURF04012"
+},
+{
+        "id": "1234B",
+        "nombre": "darien",
+        "edad":"15 ",
+        "RFC": "JURF04013"
+},
+  {
+        "id": "1234C",
+        "nombre": "diana",
+        "edad":"8 ",
+        "RFC": "JURF04014"
+},
+  {
+        "id": "1234D",
+        "nombre": "dario",
+        "edad":"28",
+        "RFC": "JURF04015"
+},
+  {
+        "id": "1234F",
+        "nombre": "gabriel",
+        "edad":"30 ",
+        "RFC": "JURF04016"
+}
+]
+}
